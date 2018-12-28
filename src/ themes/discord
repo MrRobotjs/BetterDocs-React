@@ -1,0 +1,25 @@
+---
+title: {Theme Name}
+author: {Author Name}
+description: A SHORT Description
+download:
+github_profile_url: https://github.com/{Author Name}/
+github_source_url:
+support:
+discord_server:
+demo: https://raw.githack.com
+thumbnail:
+images:
+- name: {Theme Name} Preview
+  image: https://imgur.com/upload # Direct image link should only be used here. Imgur isn't required but if it isn't used then further inspection will happen
+- name: {Theme Name} Preview - {Image Name}
+  image: https://imgur.com/upload # Direct image link should only be used here. Imgur isn't required but if it isn't used then further inspection will happen
+status:
+auto:
+featured: 
+style: dark
+tags: []
+ghcommentid: # DON'T CHANGE
+layout: product # DON'T CHANGE
+---
+# A full description of your theme. All Markdown is allowed.
