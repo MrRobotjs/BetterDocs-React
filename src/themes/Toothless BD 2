@@ -1,0 +1,20 @@
+---
+title: {Theme Name}
+author: {Author Name}
+description: toothless back at it again
+download:https://i.pinimg.com/originals/60/8c/64/608c646d4669a76ebf6a53dbf3c07a99.jpg
+github_profile_url: https://github.com/{Author Name}/
+github_source_url:
+support:
+discord_server:
+demo: https://raw.githack.com
+thumbnail:
+previews: [https://i.pinimg.com/originals/60/8c/64/608c646d4669a76ebf6a53dbf3c07a99.jpg]
+status:
+auto:
+featured: 
+style: dark
+tags: []
+ghcommentid: # DON'T CHANGE
+layout: product # DON'T CHANGE
+---
