@@ -1,0 +1,20 @@
+---
+title: {Theme Name}
+author: {Author Name}
+description:and here is another toothless for the fans
+download:http://avante.biz/wp-content/uploads/Toothless-Wallpaper/Toothless-Wallpaper-037.jpg
+github_profile_url: https://github.com/{Author Name}/
+github_source_url:
+support:
+discord_server:
+demo: https://raw.githack.com
+thumbnail:
+previews: [http://avante.biz/wp-content/uploads/Toothless-Wallpaper/Toothless-Wallpaper-037.jpg]
+status:updated
+auto:true
+featured: 
+style: dark
+tags: [toothless]
+ghcommentid: # DON'T CHANGE
+layout: product # DON'T CHANGE
+---
