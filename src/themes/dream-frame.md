@@ -2,7 +2,7 @@
 title: Dream Frame
 author: Korbs
 description: Brings a sexy translucent look to Discord with customizable options!
-download: 'https://cdn.discordapp.com/attachments/528696134118539267/528696159821234179/DreamFrame.theme.css'
+download: 'http://betterdiscord.net/ghdl/?url=https://raw.githubusercontent.com/CorbsEditor/Dream-Frame/master/DreamFrame.theme.css'
 github_profile_url: 'https://github.com/CorbsEditor'
 github_source_url: https://github.com/CorbsEditor/Dream-Frame/blob/master/DreamFrame.theme.css
 support: https://github.com/CorbsEditor/Dream-Frame/issues
@@ -11,6 +11,7 @@ demo: https://cdn.jsdelivr.net/gh/CorbsEditor/Dream-Frame@master/RAW/DreamFrameR
 thumbnail: https://i.imgur.com/LUAY68E.jpg
 previews: [https://i.imgur.com/yyNcMpp.png]
 status: Updated
+tags: [transparent] [customizable] [sexy]
 featured: true
 style: dark
 ghcommentid: 6
