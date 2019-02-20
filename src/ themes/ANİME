@@ -1,0 +1,20 @@
+---
+title: {Theme Name}
+author: {Author Name}
+description: A SHORT Description
+download:
+github_profile_url: https://github.com/{Author Name}/
+github_source_url:
+support:
+discord_server:
+demo: https://raw.githack.com
+thumbnail:
+previews: [Direct link to image, Direct link to image]
+status:
+auto:
+featured: 
+style: dark
+tags: []
+ghcommentid: # DON'T CHANGE
+layout: product # DON'T CHANGE
+---
