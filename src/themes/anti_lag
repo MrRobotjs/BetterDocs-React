@@ -1,0 +1,65 @@
+/*//META{"name":"Anti_Lag","description":"Support Server: https://nfld99.com/discord","author":"NFLD99","version":"ersion auto updates","website":"https://nfld99.com/","source":"https://github.com/NFLD99/Better-Discord"}*//**/ 
+
+/* Sorce Code */
+@import url(https://nfld99.github.io/Better-Discord/Source_Code/Master_Code.css);
+/* Animations */
+@import url(https://nfld99.github.io/Better-Discord/Source_Code/Use_Animations/No.css);
+/* Fonts https://nfld99.github.io/Better-Discord/Font_List.txt */
+@import url(https://nfld99.github.io/Better-Discord/Source_Code/Use_Fonts/No.css);
+/* Minimal Mode */
+@import url(https://nfld99.github.io/Better-Discord/Source_Code/Use_Minimal/No.css);
+/* Settings Dock */
+@import url(https://nfld99.github.io/Better-Discord/Source_Code/Use_Popup/Yes.css);
+/* Channels */
+@import url(https://nfld99.github.io/Better-Discord/Source_Code/Use_Hide/Channels/No.css);
+/* Chat Title Bar */
+@import url(https://nfld99.github.io/Better-Discord/Source_Code/Use_Hide/Chat_Title_Bar/No.css);
+/* Guild List */ 
+@import url(https://nfld99.github.io/Better-Discord/Source_Code/Use_Hide/Guilds/No.css);
+/* Invites */ 
+@import url(https://nfld99.github.io/Better-Discord/Source_Code/Use_Hide/Invites/No.css);
+/* Member List */ 
+@import url(https://nfld99.github.io/Better-Discord/Source_Code/Use_Hide/Members/No.css);
+/* Windows Bar */ 
+@import url(https://nfld99.github.io/Better-Discord/Source_Code/Use_Hide/Windows_Bar/No.css);
+/* Offline Members */ 
+@import url(https://nfld99.github.io/Better-Discord/Source_Code/Use_Hide/Offline/No.css);
+/* User Popout Footer */ 
+@import url(https://nfld99.github.io/Better-Discord/Source_Code/Use_Hide/Popout_Footer/Yes.css);
+ 
+/* Transparency Patch */ 
+@import url(https://nfld99.github.io/Better-Discord/Source_Code/Use_Transparency/No.css);
+
+:root {
+  --Main-Colour: rgba(0,172,234,1);
+  --Background-Colour: rgba(48,48,48,1);
+  --S-Colour: rgba(48,48,48,.3);
+  --M-Colour: rgba(0,172,234,.5);
+  --Text-Shadow-Colour: rgba(48,48,48,.65);
+  --Scroller-Colour: rgba(0,172,234,0);
+  --Notification-Colour: rgba(0,172,234,1);
+  --Chat-Input-Background: rgba(0,0,0,0);
+  --Chat-Input-Colour: var(--Main-Colour) ;
+  --Unread-Message-1: var(--Main-Colour) ;
+  --Unread-Message-2: var(--Background-Colour) ;
+  --Chat-Background: rgba(75,76,76, 1);
+  --Settings-Background: rgba(75,76,76, 1);
+  --Callout-Background: rgba(75,76,76, 1);
+  --Title-Background: var(--Background-Colour);
+  --Theme-Variant: " Anti Lag";
+  --Chat-Font-Used: ;
+  --Chat-Font-Size: 15px;
+  --Unread-Message-Speed: 1.5s;
+  --Popout-Main-Colour: var(--Main-Colour);
+  --Popout-Background: var(--Chat-Background);
+  --Popout-Text-Shadow-Colour:var(--Text-Shadow-Colour);
+  --Emote-Popout-Background: var(--S-Colour);
+  --load1: "Anti";
+  --load2: "Lag";
+  --load3: "➢NFLD99";
+  --Settings-Dock-Colour: var(--Main-Colour);
+  --Timestamp-Colour: var(--M-Colour);
+  --Guild-Rows: 2;
+  --Chat-Avatar-Border-Radius: 10%;
+  --Background-Brightness: 0.27;
+}
