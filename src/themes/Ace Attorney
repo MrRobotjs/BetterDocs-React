@@ -16,9 +16,9 @@ status: Updated
 auto: true
 featured: true
 style: dark
-tags: ace attorney, apollo justice, phoenix wright, trucy wright, maya fey, godot, franziska von karma, pearl fey, klavier gavin, larry butz, ema skye, gumshoe, miles edgeworth, kristoph gavin
-ghcommentid:
-layout: product
+tags: [ace attorney, apollo justice, phoenix wright, trucy wright, maya fey, godot, franziska von karma, pearl fey, klavier gavin, larry butz, ema skye, gumshoe, miles edgeworth, kristoph gavin]
+ghcommentid: 
+layout: product 
 draft: false
 ---
 # A Ace Attorney theme i decided to make, hope everyone like it!
