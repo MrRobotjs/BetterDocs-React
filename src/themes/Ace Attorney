@@ -1,4 +1,16 @@
-title: Ace Attorney
+{
+  allMarkdownRemark{
+    edges{
+      node{
+        id
+        frontmatter{
+          title Ace Attorney
+        }
+         html
+      }
+    }
+  }
+}
 author:TrucyWright
 description:A theme of the game Ace Attorney.
 download: 
