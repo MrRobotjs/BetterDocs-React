@@ -1,12 +1,12 @@
 ---
-title: Upload a Theme
+title: sailor
 sub: Uploading a theme is as easy as 1, 2, 3...uhh and maybe more.
-description: Want to publish your theme to our Showcase? Follow these instructions slow & carefully to get your theme featured for free!
+description: bruh
 status: none
-maintainer_name: Placeholder
-contributor_name: [Placeholder]
+maintainer_name: waco
+contributor_name: waco
 ghcommentid: 441
-author: placeholder
+author: waco
 ---
 # Publish your work
 Want to publish your theme to our [Showcase](https://discordsource.com/themes/)? Follow these instructions slow & carefully.
