@@ -12529,7 +12529,7 @@ code {
     position: relative
 }
 
-.app {
+.da-app {
     bottom: 0;
     contain: layout;
     left: 0;
@@ -12539,7 +12539,7 @@ code {
     top: 0
 }
 
-.app button {
+.da-app button {
     cursor: pointer
 }
 
@@ -35602,7 +35602,7 @@ textarea {
     padding: 20px
 }
 
-.app .welcomeMessage-3_Mcht h1 {
+.da-app .welcomeMessage-3_Mcht h1 {
     color: #7289da;
     font-size: 18px;
     font-weight: 700;
